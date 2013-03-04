@@ -10,6 +10,7 @@
 #include <fcntl.h>
 #include <errno.h>
 #include <sys/ioctl.h>
+#include <string.h>
 
 #include <asm/byteorder.h>
 #include <linux/usbdevice_fs.h>
